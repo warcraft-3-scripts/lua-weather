@@ -1,9 +1,0 @@
-{
-  "title": "weather",
-  "author": "Chugunov Roman / Zebs-BMK@yandex.ru",
-  "license": "MIT",
-  "sources": [
-    "src"
-  ],
-  "dependencies": {}
-}

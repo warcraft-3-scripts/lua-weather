@@ -1,5 +1,2 @@
-WM("init", function()
-  print("Hello LUA!!!")
-end)
-
-importWM("init")
+-- init weather script
+require("weather").init()
