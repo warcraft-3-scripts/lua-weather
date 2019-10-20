@@ -6,3 +6,4 @@ This is a simple weather script which manipulate of weather effects on a map. Fo
 
 - [ ] Splited regions with different weather effects (Imitation of clouds)
 - [ ] More clever the weather script
+- [ ] More difficult combinations of weather effects
